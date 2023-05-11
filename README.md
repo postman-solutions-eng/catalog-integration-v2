@@ -1,4 +1,4 @@
-# Catalog Integration
+# Catalog Integration v2
 
 This repo is intended to be an advancement of the first [catalog-integraton](https://github.com/postman-solutions-eng/catalog-integration) example.
 
